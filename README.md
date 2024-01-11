@@ -7,7 +7,7 @@ This repository uses the api to query data on dashboards.
 
 
 ### Setup and Execute
-1. Fork/Clone/Download this repo <br>
+1. Download this repo <br>
 `git clone https://github.com/jawdat-rana/dashboard.git`
 
 2. Navigate to the directory <br>
@@ -23,8 +23,7 @@ This repository uses the api to query data on dashboards.
 `python dashboard_1.py` <br>
 `python dashboard_2.py`
 
-### Notes
-
+### Links
 API Repo:
 https://github.com/jawdat-rana/fast-api
 
@@ -32,5 +31,5 @@ Hosted API:
 https://fast-api-norges-bank-investment.onrender.com/
 
 Dashboards:
-https://interactive-dashboard-7vcu.onrender.com/
+https://interactive-dashboard-7vcu.onrender.com/ <br>
 https://interactive-dashboard-2.onrender.com/
