@@ -20,11 +20,12 @@ This repository uses the api to query data on dashboards.
 `pip install -r requirements.txt`
 
 5. Run <br> 
-`python trackman.py`
+`python dashboard_1.py` <br>
+`python dashboard_2.py`
 
 ### Notes
 
-API
+API Repo:
 https://github.com/jawdat-rana/fast-api
 
 Hosted API:
